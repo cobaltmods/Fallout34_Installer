@@ -132,6 +132,12 @@ This mod is completely separate from [the capital wasteland project](https://cap
 
 See credits.
 
+## Politics Reference
+
+This mod is "AI-Assisted". This project is not "vibecoded". An incredible amount of manual work and over 15 years of fallout modding expertise was put into this project. AI was involved too but likely not in the ways you'd expect. this is a handcrafted mod at the end of the day, and a lot of manual work went into it.
+
+There is a way to contact us privately in the discord if you ever need to.
+
 ## Installation
 
 1) Copy in all requirements into your fallout 3, fallout NV and fallout 4 installs (and add to plugins.txt or use mod manager). Review all requirements carefully.
@@ -171,7 +177,10 @@ This is an open-source GPL tool that the installer uses to convert game files et
 
 CREDITS:
 
-**Fallout 34** by Cobalt - converter, installer, testing, Fallout34.dll (F4SE plugin), bugfixing, creative direction
+**Fallout 34**
+- Cobalt - original mod creator, the converter, installer, testing, Fallout34.dll (F4SE plugin), bugfixing, creative direction
+- [Becibis](https://www.nexusmods.com/profile/Becibis) - Community patches (such as sprint fix, other), community & moderation, testing
+- Link - Community patches (such as armor stats fix, patrols, other), testing
 
 **Bethesda Game Studios** - Fallout 3, Fallout: New Vegas (Obsidian Entertainment) and Fallout 4. This mod contains NO files from Fallout 3 or New Vegas: the installer converts *your own* copies on your PC. You must own all three games. Fallout 34 is not made, supported or endorsed by Bethesda Softworks or ZeniMax Media. Fallout is a trademark of ZeniMax Media Inc.
 
