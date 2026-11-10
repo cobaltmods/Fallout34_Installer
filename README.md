@@ -181,6 +181,7 @@ CREDITS:
 - Cobalt - original mod creator, the converter, installer, testing, Fallout34.dll (F4SE plugin), bugfixing, creative direction
 - [Becibis](https://www.nexusmods.com/profile/Becibis) - Community patches (such as sprint fix, other), community & moderation, testing
 - Link - Community patches (such as armor stats fix, patrols, other), testing
+- There are now many other community members helping us fix, test, and discuss how to move this mod forward. If we have forgotten your name here please let us know.
 
 **Bethesda Game Studios** - Fallout 3, Fallout: New Vegas (Obsidian Entertainment) and Fallout 4. This mod contains NO files from Fallout 3 or New Vegas: the installer converts *your own* copies on your PC. You must own all three games. Fallout 34 is not made, supported or endorsed by Bethesda Softworks or ZeniMax Media. Fallout is a trademark of ZeniMax Media Inc.
 
