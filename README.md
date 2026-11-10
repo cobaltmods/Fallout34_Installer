@@ -10,13 +10,15 @@ We do not ship ANY game files as part of this. Zero! This is just a standalone c
 
 ## Requirements
 
-### Required
+### Required Games
+- [Fallout 3 + All DLC](https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/)
+- [Fallout 4 + All DLC](https://store.steampowered.com/app/377160/Fallout_4/)
+- [Fallout NV + All DLC](https://store.steampowered.com/app/22380/Fallout_New_Vegas/)
+
+### Required Mods
 
 | Mod name | Notes |
 | --- | --- |
-| [Fallout 3 + All DLC](https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/) | Required |
-| [Fallout 4 + All DLC](https://store.steampowered.com/app/377160/Fallout_4/) | Required |
-| [Fallout NV + All DLC](https://store.steampowered.com/app/22380/Fallout_New_Vegas/) | Required |
 | [FO4 - Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327) | Required |
 | [FO4 - Backpacks of the Commonwealth](https://www.nexusmods.com/fallout4/mods/29447) | Required |
 | [FO4 - Buffout 4 NG and VR](https://www.nexusmods.com/fallout4/mods/64880) | Required |
@@ -34,7 +36,7 @@ We do not ship ANY game files as part of this. Zero! This is just a standalone c
 | [FO3 - Street Lights](https://www.nexusmods.com/fallout3/mods/8069?tab=files) | Required |
 | [Reshade](https://reshade.me/) | Required (with addon support) (empty is fine) |
 
-### Optional but recommended
+### Optional but recommended mods
 
 | Mod name | Notes |
 | --- | --- |
@@ -54,6 +56,10 @@ We do not ship ANY game files as part of this. Zero! This is just a standalone c
 | [FO3 - Cube Experimental](https://www.nexusmods.com/fallout3/mods/6270?tab=description) | Optional but recommended |
 | [FO3 - Custom Vector maps](https://www.nexusmods.com/fallout3/mods/566?tab=files) | Optional but recommended (Monochrome version) |
 | [FO4 - Upscaling Custom](https://www.nexusmods.com/fallout4/mods/108772) | Optional but recommended |
+
+### Optional but recommended community patches
+- Fawkes [Patch](https://www.nexusmods.com/fallout4/mods/111001?tab=files) + [Mod](https://www.nexusmods.com/fallout4/mods/41944?tab=files)
+- More in the works
 
 ## Converter Details
 
