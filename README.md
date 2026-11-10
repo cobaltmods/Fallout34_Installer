@@ -8,6 +8,12 @@ Fallout 3 and New Vegas are now playable inside of Fallout 4, alongside Fallout 
 
 We do not ship ANY game files as part of this. Zero! This is just a standalone converter that will convert your local fallout 3 and nv files into your local fallout 4 files. You must own and install both games yourself for this to work, and then run the installer which can take ~2 hours to convert everything. This is the only way we can distribute the mod legally.
 
+## Download
+
+[You can download the installer (which distributes ZERO game files) in our discord server here](https://discord.gg/hdHTTnSZnw)
+
+See requirements
+
 ## Requirements
 
 ### Required Games
